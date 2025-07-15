@@ -12,7 +12,7 @@ To run the model and reproduce the results:
 
 1. Open the notebook in Jupyter:
 ```bash 
-jupyter notebook Autism_with_XAI.ipynb
+ Autism_with_XAI.ipynb
 ```
 2. Run all the cells to train the models and generate explainability plots (LIME, SHAP).
 If you want to view the outputs (including all generated plots) without running the code, you can open the pre-rendered notebook:
@@ -31,3 +31,6 @@ File Structure
 ├── requirements.txt           # Python dependencies
 ├── README.md                  # Project overview and usage guide
 ```
+👩‍🔬 Author
+Shehla Rafiq
+Feel free to connect or cite if this work is useful to your research.

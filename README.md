@@ -31,6 +31,24 @@ File Structure
 ├── requirements.txt           # Python dependencies
 ├── README.md                  # Project overview and usage guide
 ```
-👩‍🔬 Author
-Shehla Rafiq
-Feel free to connect or cite if this work is useful to your research.
+## 👩‍🔬 Author
+**Shehla Rafiq**
+
+## 📄 How to Cite
+If you find this repository or the associated work useful, please cite:
+
+Rafiq, S., Assad, A.  
+*Random forest and explainable AI for autism gene prioritization: a machine learning approach to developmental brain data.*  
+International Journal of Developmental Disabilities, 2025.  
+https://doi.org/10.1080/20473869.2025.2590001
+
+### BibTeX
+```bibtex
+@article{Rafiq2025AutismXAI,
+  title   = {Random forest and explainable AI for autism gene prioritization: a machine learning approach to developmental brain data},
+  author  = {Rafiq, Shehla and Assad, Assif},
+  journal = {International Journal of Developmental Disabilities},
+  year    = {2025},
+  doi     = {10.1080/20473869.2025.2590001}
+}
+
